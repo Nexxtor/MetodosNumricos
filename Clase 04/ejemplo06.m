@@ -6,13 +6,13 @@ disp('4. Division');
 opcion = input('Seleccion una opcion, (Escriba el numero): ');
 
 switch(opcion)
-case 1
+case "A"
   disp('Selecciono suma');
-case 2
+case "B"
   disp('Selecciono resta');
-case 3
+case {"C" , "D"}
   disp('Selecciono mutiplicacion');
-case 4
+case "E"
   disp('Selecciono division');
 otherwise
   disp('Seleccione una opcion correcta');
