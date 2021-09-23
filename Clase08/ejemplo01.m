@@ -1,6 +1,6 @@
 % Graficando con octave en un plano bidemesional.
 % Para graficar en Octave se usa la funcion plot
-% esta función tiene muchas casos de uso y forma de perzonalizar
+% esta función tiene muchas casos de uso y forma de personalizar
 % a continuacion se presenta ordenados y explicados
 % Para ver los resultado de cada caso solamente copie y pegue el caso
 % que desea probar
