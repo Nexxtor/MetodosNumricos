@@ -1,0 +1,1 @@
+% Aproximacion de e^x maclariumfunction [y] =  exponencial(x,limite)  y = 0;  for n = 0:limite    y += x**n / factorial(n)  endend
