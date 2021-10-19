@@ -35,6 +35,7 @@ function [raiz] = bisect(func,a,b,tol)
      else
        b = r; fb = fr;
      end
+     
   end
   
   raiz = (a +b) / 2;
